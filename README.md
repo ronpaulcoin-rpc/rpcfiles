@@ -1,7 +1,10 @@
 ### Hi there 👋
+The RonPaulCoin wallet files hosted here are the 0.8.6.2 version ones from 2014.  
+
+///RONPAULCOIN.CONF INSTALLATION
 Before attempting the steps below start your RonPaulCoin wallet for the very first time and after it opens and attempts to sync,
-wait a couple of seconds and then quit the program. This allows the wallet software to generate the RonPaulCoin directories for
-which you'll place the ronpaulcoin.conf file inside of to get your precious bank up and running!
+wait a couple of seconds and then quit the program. This allows the wallet software to generate the RonPaulCoin directories the 
+.conf file gets placed inside of. 
 
 Windows Users 
 1. Make sure your RonPaulCoin wallet is closed 
