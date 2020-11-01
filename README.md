@@ -1,12 +1,19 @@
-The RonPaulCoin cryptocurrency project began on December 29, 2013
+The RonPaulCoin cryptocurrency project began on December 29, 2013.
+
 The RonPaulCoin wallet files hosted here are the 0.8.6.2 version ones from 2014
  
 RPC Bitcointalk Thread: https://bitcointalk.org/index.php?topic=5159486
+
 BlockExplorer: http://explorer.scrypt.ovh/ronpaulcoin 
+
 RonPaulCoin on Coingecko: https://www.coingecko.com/en/coins/ronpaulcoin
+
 FreiExchange: https://freiexchange.com/market/RPC/BTC
+
 Reddit /r/ronpaulcoin: http://www.reddit.com/r/ronpaulcoin
+
 RPC Creator's Github: https://github.com/ronpaulcoin/ronpaulcoin (not updated since 2014)
+
 RP asked about cryptocurrencies in 2004: https://www.youtube.com/watch?v=hPQjEoZ2RdI
 
 ///RONPAULCOIN.CONF INSTALLATION
