@@ -1,6 +1,6 @@
-The RonPaulCoin cryptocurrency project began on December 29, 2013.
+The RonPaulCoin cryptocurrency project began on December 29, 2013 and is over 7 years old!
 
-The RonPaulCoin wallet files hosted here are the 0.8.6.2 version ones from 2014.
+The RonPaulCoin wallet files hosted here are the 0.8.6.2 version wallets from 2014.
  
 RPC Bitcointalk Thread: https://bitcointalk.org/index.php?topic=5159486
 
@@ -23,7 +23,7 @@ wait a couple of seconds and then quit the program. This allows the wallet softw
 
 Windows Users 
 1. Make sure your RonPaulCoin wallet is closed 
-2 Make sure show hidden files is enabled in Windows
+2. Make sure show hidden files is enabled in Windows
 3. Go to C:\Users\YOUR-USERNAME\AppData\Roaming\RonPaulCoin
 4. Copy the ronpaulcoin.conf file into the RonPaulCoin folder
 5. Open your RonPaulCoin and it should begin to sync
