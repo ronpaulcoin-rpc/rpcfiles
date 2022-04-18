@@ -1,6 +1,7 @@
-The RonPaulCoin cryptocurrency project began on December 29, 2013 and is over 7 years old!
+The RonPaulCoin cryptocurrency project began on December 29, 2013 and is over 8 years old!
+I think it's test net actually started on December 23, 2013 which is exactly 100 years after the signing of the Federal Reserve Act of 1913!
 
-The RonPaulCoin wallet files hosted here are the 0.8.6.2 version wallets from 2014.
+The RonPaulCoin wallet files hosted here are the 0.8.6.2 version wallets from early 2014.
  
 RPC Bitcointalk Thread: https://bitcointalk.org/index.php?topic=5159486
 
