@@ -1,5 +1,5 @@
-The RonPaulCoin cryptocurrency project began on December 29, 2013 and is over 8 years old!
-I think it's testnet actually started on December 23, 2013 which is exactly 100 years after the signing of the Federal Reserve Act of 1913!
+RonPaulCoin genesis (first) block of data was created on December 23, 2013. 
+Google search, "When did the Federal Reserve start?" if you don't already know.
 
 The RonPaulCoin wallet files hosted here are the 0.8.6.2 version wallets from early 2014.
  
@@ -7,15 +7,10 @@ RPC Bitcointalk Thread: https://bitcointalk.org/index.php?topic=5159486
 
 BlockExplorer: http://explorer.scrypt.ovh/ronpaulcoin 
 
-RonPaulCoin on Coingecko: https://www.coingecko.com/en/coins/ronpaulcoin
-
-FreiExchange: https://freiexchange.com/market/RPC/BTC
-
 Reddit /r/ronpaulcoin: http://www.reddit.com/r/ronpaulcoin
 
-RPC Creator's Github: https://github.com/ronpaulcoin/ronpaulcoin (not updated since 2014)
-
-RP asked about cryptocurrencies in 2004: https://www.youtube.com/watch?v=hPQjEoZ2RdI
+RPC Original Github: https://github.com/ronpaulcoin/ronpaulcoin (not updated since 2014)
+Dr. Paul asked about cryptocurrencies in 2004: https://www.youtube.com/watch?v=hPQjEoZ2RdI
 
 ///RONPAULCOIN.CONF INSTALLATION
 Before attempting the steps below start your RonPaulCoin wallet for the very first time and after it opens and attempts to sync,
