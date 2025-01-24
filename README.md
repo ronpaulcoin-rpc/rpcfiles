@@ -9,7 +9,7 @@ BlockExplorer: http://explorer.scrypt.ovh/ronpaulcoin
 
 Reddit /r/ronpaulcoin: http://www.reddit.com/r/ronpaulcoin
 
-RPC Original Github: https://github.com/ronpaulcoin/ronpaulcoin (not updated since 2014)
+RPC Original Github: https://github.com/ronpaulcoin-rpc/ronpaulcoin (not updated since 2014)
 Dr. Paul asked about cryptocurrencies in 2004: https://www.youtube.com/watch?v=hPQjEoZ2RdI
 
 ///RONPAULCOIN.CONF INSTALLATION
